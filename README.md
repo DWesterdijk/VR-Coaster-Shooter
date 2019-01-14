@@ -26,7 +26,7 @@ The reason I choose Unity Engine is mainly because my general knowledge of c# is
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | I will start my research in Unity VR and setup the scene in Unity. | I will make a begin where I will make the VR work. | I will make the onrail movement and make it possible to shoot stuff. | I will fine tune the VR a bit if needed, and else I will start making targets. | Once the targets are done I will start on making an easy point system.
-|week 2 | 
+|week 2 | I will playtest the game and see what has to be fixed, added, removed or is done. | I will apply all fixes and remove the things I don't need. If I have time left I will add the necessary stuff. | I will playtest it one more time and fix everything that needs to  be fixed. | One final playtest before the final day is here, and if I see anything that needs to be fixed or adjusted I will do it. | I will hand in the project on this day, and hope I have done everything I wanted to do. 
 
 ## Sources
 - https://aframe.io/
